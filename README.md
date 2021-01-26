@@ -1,3 +1,1 @@
-# practice
-
-Personal practice of JavaScript fullstack development project
+# Boilerplate of simple React.js application
